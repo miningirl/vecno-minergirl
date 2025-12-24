@@ -32,8 +32,10 @@ Getting Started
 (Include your usage instructions here, e.g., configuration file, command line examples, pool setup for Vecno, etc.)
 For more information about Vecno:
 
-Official website: https://vecnofoundation.org
-Explorer: https://vecnoscan.org or https://explorer.vecno.org
-Mining pool: https://pool.vecnoscan.org
-
+Pool : https://pool.vecnoscan.org/,
+pool metric : https://poolmetrics.vecnoscan.org/,
+Site : https://vecnofoundation.org/,
+Github : https://github.com/Vecno-Foundation,
+Miner:  https://github.com/Vecno-Foundation/vecno-miner/releases,
+Wallet: https://github.com/Vecno-Foundation/vecno-desktop-wallet/releases
 Happy mining! ⛏️
